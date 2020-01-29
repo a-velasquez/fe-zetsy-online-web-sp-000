@@ -51,6 +51,12 @@ h2 {
     padding: 1px;
 }
 
+#press img:hover {
+    transition: border-color 0.5s ease;
+    border-color: #ccc;
+    padding: 1px;
+}
+
 footer p {
   text-align: right;
   font-size: 0.8em;
