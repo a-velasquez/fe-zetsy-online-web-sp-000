@@ -47,12 +47,12 @@ h2 {
 }
 
 #press img {
-    border: 5px #ccc solid;
-    padding: 1px;
+  border: 5px #ccc solid;
+  padding: 1px;
 }
 
 #press img:hover {
-    transition: border-color 0.5s ease;
+  border: 5px rgb(111,127,122) solid
 }
 
 footer p {
